@@ -1,0 +1,4 @@
+com\rest\client\NetClientGet.class
+com\rest\Acticle.class
+com\rest\client\NetClientPost.class
+com\rest\JSONService.class
